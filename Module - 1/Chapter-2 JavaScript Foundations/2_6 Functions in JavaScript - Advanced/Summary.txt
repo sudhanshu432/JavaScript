@@ -1,0 +1,41 @@
+Summary 
+
+What did we learn?
+
+JavaScript is a high-level, interpreted, and dynamic programming language. It is widely used to create interactive and dynamic web pages 
+and applications.
+
+In JavaScript, a variable is a container that holds a value and can be referenced by a name. Variables declaration can be done using the var, 
+let, or const keywords and can store different data types, such as numbers, strings, and objects.
+
+Function execution in JavaScript refers to calling and running a function. When a function is executed, it executes the code inside 
+it from top to bottom. 
+
+The execution of a function can be triggered in several ways, such as by calling the function by its name, by invoking it as a method of 
+an object, or by using the apply or call methods.
+
+Function expressions are used to create functions as values and can be used as arguments or assigned to variables.
+
+Function declarations are used to create named functions and are hoisted to the top of their scope. 
+
+Functions in JavaScript can also take parameters, which are values passed into the function and can return a value using the return statement.
+
+
+
+Shortcomings & Challenges
+
+JavaScript hoisting can lead to unexpected behavior if not understood and managed properly.
+Anonymous functions can be difficult to debug if they don't have a name.
+Overuse of functions can result in decreased performance, especially in complex applications.
+Functions should be kept concise and well-organized to maintain code readability and maintainability.
+
+
+
+Best practices to follow
+
+Use descriptive function names that accurately reflect the function's purpose and behavior.
+Break down complex functions into smaller, reusable helper functions.
+Avoid using global variables inside functions to prevent unintended consequences and make the function more portable.
+Always declare variables with the let or const keywords to prevent potential issues with variable hoisting.
+Use function expressions instead of function declarations for helper functions that don't need to be hoisted.
+Consider using arrow functions for simple functions that have concise, single-line bodies.

@@ -1,0 +1,52 @@
+Summary
+
+What did we learn?
+
+Functions are defined using the function keyword, followed by the function name, optional parameters in parentheses, and a code block enclosed in curly brackets.
+
+JavaScript functions can be called by preceding the function name with the parenthesized parameters.
+
+Function declarations define a function with a name or identifier, similar to variable declarations.
+
+Functions can be called multiple times and can accept inputs through parameters.
+
+Default parameters allow for predetermined values when a function is called without an or undefined argument.
+
+The return keyword sends data from a function call back to the calling code, allowing the output to be stored in a variable for further use.
+
+
+
+
+
+Shortcomings & Challenges
+
+Naming conflicts: 
+When multiple functions share the same name in a global scope, they may overwrite each other, leading to unexpected behavior. Namespaces, 
+modules, or closures can help prevent naming conflicts and keep the code organized.
+
+Performance: 
+Creating many functions or using recursion extensively can impact performance, especially in resource-constrained environments. It's essential to consider 
+the trade-offs between code organization and performance when designing your functions.
+
+
+Debugging: 
+Debugging functions can be challenging, especially when dealing with higher-order functions or callback functions. Utilizing proper error handling, logging, 
+and debugging tools can help mitigate this challenge.
+
+
+
+
+
+Best practices to follow
+
+Use descriptive function names: 
+Choose function names that clearly describe their purpose and the tasks they perform. This improves code readability and makes it easier for others to understand 
+the code.
+
+Keep functions small and focused: 
+Break down complex tasks into smaller, more focused functions. This improves readability, makes the code easier to maintain, and simplifies debugging.
+Avoid global variables: Minimize the use of global variables to reduce the risk of unintended side effects. Instead, use function parameters and local 
+variables to pass data between functions.
+Use pure functions: Whenever possible, write pure functions that do not cause side effects and produce consistent output based on their input.
+Pure functions are easier to test, debug, and maintain.
+ 

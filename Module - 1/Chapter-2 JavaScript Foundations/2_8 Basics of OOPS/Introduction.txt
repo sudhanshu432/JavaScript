@@ -1,0 +1,34 @@
+Introduction
+
+Object-Oriented Programming (OOP) is a powerful paradigm that organizes code into reusable objects, providing a clear and intuitive 
+way to model real-world entities and behaviors in software development. By encapsulating data and methods, OOP promotes modularity, 
+abstraction, and extensibility, making it a fundamental concept in modern programming.
+
+Focus: OOPs and ES Classes, `this` keyword, JavaScript Prototype and Inheritance, extends keyword
+
+Prerequisites: VS Code IDE with Node.js installed, JavaScript Basics
+
+
+
+Theme
+
+A team of developers was working on an e-commerce website project and wanted to create a clean, maintainable, and scalable solution that would meet 
+their client's requirements. They were familiar with Object-Oriented Programming. Still, they were using a different programming language and needed 
+to become more familiar with the latest features of JavaScript, such as ES Classes.
+
+By combining the power of JavaScript OOP, and ES Classes, the team was able to create a robust, flexible, and maintainable solution. 
+They used ES Classes to define objects and classes clearly. The result was a well-crafted website that impressed their client.
+
+
+
+Primary Goals
+
+Grasp the Basics of Object-Oriented Programming (OOP) and Embrace Its Benefits for Building Complex Applications.
+
+Explore ES Classes: How They Bring Object-Oriented Programming to Life in JavaScript.
+
+Unveil the Power of 'this' and 'extends': Using JavaScript's Keywords for Effective Method Handling.
+
+Understand 'bind', 'apply', and 'call': Choosing the Right Tools for JavaScript Method Management.
+
+Delve into Prototypes and Inheritance: Building Strong Foundations in JavaScript's Object Model.
